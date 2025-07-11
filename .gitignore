@@ -37,4 +37,5 @@ yarn-error.*
 *.tsbuildinfo
 
 app-example
-.cursor
+.cursor\rules
+.github\copilot-instructions.md
